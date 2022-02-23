@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great plot discovered, or, The notorious and wicked design upon the river of Thames put in execution on Monday last with a hu-and-cry after the condemned prisoners that made their escape upon their removing from Newgate to be transported for Jamaica, and the manner how they made their escape and got ashore in Essex, the killing of the steer-man, the pursuing of them by souldiers, and the names and number of those since re-taken which are now to be executed upon several gibbets : likewise the apprehending of the wicked villains ill-affected to His Gracious Majesty and His Royal Highnesse the Duke of York.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41937</idno>
+            <idno type="STC">Wing G1744A</idno>
+            <idno type="STC">ESTC R26760</idno>
+            <idno type="EEBO-CITATION">09531704</idno>
+            <idno type="OCLC">ocm 09531704</idno>
+            <idno type="VID">43538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great plot discovered, or, The notorious and wicked design upon the river of Thames put in execution on Monday last with a hu-and-cry after the condemned prisoners that made their escape upon their removing from Newgate to be transported for Jamaica, and the manner how they made their escape and got ashore in Essex, the killing of the steer-man, the pursuing of them by souldiers, and the names and number of those since re-taken which are now to be executed upon several gibbets : likewise the apprehending of the wicked villains ill-affected to His Gracious Majesty and His Royal Highnesse the Duke of York.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Escapes --  England.</term>
+               <term>Prisoners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43538:1"/>
+            <p>A Great Plot DISCOVERED, OR The notorious and wicked Deſign upon the River of <hi>Thames,</hi> put in execution on Monday laſt,</p>
+            <p>With a Hu-and-Cry after the Condemned Pri<g ref="char:EOLhyphen"/>ſoners that made their eſcape upon their re<g ref="char:EOLhyphen"/>moving from <hi>Newgate</hi> to be tranſported for <hi>Jamaica;</hi> And the manner how they made their eſcape, and got aſhore in <hi>Eſſex,</hi> the killing of the Steer-man, the purſuing of them by Soul<g ref="char:EOLhyphen"/>diers, and the Names and Number of thoſe ſince re-taken, which are now to be executed upon ſeveral Gibbets.</p>
+            <p>Likewiſe the apprehending of the wicked Vil<g ref="char:EOLhyphen"/>lains ill-affected to his Gracious Majeſty, and his Royal Highneſſe the Duke of <hi>York.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43538:2"/>
+            <pb n="3" facs="tcp:43538:2"/>
+            <head>A Great PLOT DISCOVERED, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O do juſtly is the duty of every Chriſtian, <hi>Mich.</hi> 6.8. but eſpeci<g ref="char:EOLhyphen"/>ally of Magiſtrates, and ſuch as are in Authority, and then Peo<g ref="char:EOLhyphen"/>ple may ſit under their own Vines, and Figge-trees, ſafely; <hi>When Juſtice runs down like a Ra<g ref="char:EOLhyphen"/>ver, and Righteouſneſſe as a mighty ſtream in the ſtreet;</hi> And that we may be the more enamoured with the beauty of Juſtice, couſider that juſt and legal Order of our Gracious Soveraign, and the Magiſtracy, for the tranſporting of divers Condemned Priſoners to <hi>Jamaica,</hi> which Order was intentionally put in execution on Monday the 26. of this inſtant <hi>Auguſt,</hi> and a Gibbet erected for the hanging of thoſe that ſhould refuſe to
+<pb n="4" facs="tcp:43538:3"/>obey it, but thus had theſe Villains plotted and conſpired together, generally to ſubmit there<g ref="char:EOLhyphen"/>unto, and to endeavour their eſcape before they were put a ſhip-board, which accordingly on Monday laſt, being embarqued in a Barge, wait<g ref="char:EOLhyphen"/>ing their opportunity below <hi>Black mall,</hi> they moſt inſolently ſeized the Steers-man and the reſt of his Fellows, and reſolutely ſteered a long till they came to the <hi>Eſſex</hi> Coaſt, which the Souldiery that were their Guard, perceiving, let fly ſeveral musket ſhot, which unfortunately kil<g ref="char:EOLhyphen"/>led the Steerſ-man, and made up to them as faſt as they could; but before they could make their timely approach, the Priſoners had got aſhore, ſome running one way, ſome another, diſperſing of themſelves to ſeveral places and corners; but being purſued, ſome of them are ſince taken, a<g ref="char:EOLhyphen"/>mongſt whom, <hi>Digby, Wood,</hi> and fifteen others; and a Hu-and-Cry is gone after the reſt, ſo that we may expect very ſuddenly the hand of juſtice to overtake them.</p>
+            <p>In the mean time, for a better diſcovery of theſe Offenders, we ſhall here preſent you with a perfect Liſt of their Names, a true Copy take as followeth.</p>
+         </div>
+         <div type="list">
+            <pb n="5" facs="tcp:43538:3"/>
+            <head>A LIST Of all the Condemned Priſoners Sent from <hi>NEW GATE</hi> The twenty ſixth of <hi>Auguſt,</hi> 1661. to JAMACA, and never to return into <hi>ENGLAND,</hi> Unleſs they be willing to be hanged.</head>
+            <p>
+               <list>
+                  <head>London <hi>Side.</hi>
+                  </head>
+                  <item>EDward Beek ford.</item>
+                  <item>James Harris.</item>
+                  <item>Samuel Netherlaw.</item>
+                  <item>
+                     <hi>Suſan Sillham.</hi>
+                  </item>
+                  <item>Richard Sims.</item>
+                  <item>
+                     <hi>Sarah Wiltſhire.</hi>
+                  </item>
+                  <item>Benjamin Childerſton.</item>
+                  <item>Hugh Brown.</item>
+                  <item>
+                     <hi>Ellen Thorp.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:43538:4"/>
+                  <item>William Peacock.</item>
+                  <item>
+                     <hi>Margery Martin.</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Smith.</hi>
+                  </item>
+                  <item>Thomas Balden.</item>
+                  <item>Edward Guch.</item>
+                  <item>William Elder.</item>
+                  <item>William Hudſon.</item>
+                  <item>Nathan Hubert.</item>
+                  <item>
+                     <hi>Suſan James.</hi>
+                  </item>
+                  <item>
+                     <hi>Suſan Almon.</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Smith.</hi>
+                  </item>
+                  <item>John Riggs.</item>
+                  <item>
+                     <hi>Judith Thomas.</hi>
+                  </item>
+                  <item>Robert Newman.</item>
+                  <item>Gabriel Reynolds.</item>
+                  <item>Robert Wood.</item>
+                  <item>John Harris, <hi>alias</hi>
+                  </item>
+                  <item>Robinſon.</item>
+                  <item>John Digbie.</item>
+               </list>
+               <list>
+                  <head>Middleſex.</head>
+                  <item>THomas Edwards.</item>
+                  <item>Arthur Garton.</item>
+                  <item>William Fuller.</item>
+                  <item>John Johnſon, <hi>alias</hi> Lacey.</item>
+                  <item>John Hobbs.</item>
+                  <item>Bartholmew Shore.</item>
+                  <item>William Reemes.</item>
+                  <item>John Phips, <hi>alias</hi> Phipie.</item>
+                  <item>Thomas Bullock.</item>
+                  <item>Thomas Cook.</item>
+                  <item>Francis Corbit.</item>
+                  <item>
+                     <hi>Amy Maſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Alice Scalley.</hi>
+                  </item>
+                  <item>Thomas Alen.</item>
+                  <item>William Gun.</item>
+                  <item>
+                     <hi>Elizabeth Green</hi>
+                  </item>
+                  <item>George Green,</item>
+                  <item>Henry Jackſon.</item>
+                  <item>
+                     <hi>Margery Evans.</hi>
+                  </item>
+                  <item>Henry Pretty.</item>
+                  <item>Thomas Naſh.</item>
+                  <item>Thomas Har, <hi>alias</hi> Parre.</item>
+                  <item>William Keitley.</item>
+                  <item>Thomas Aſten.</item>
+                  <item>Robert Stonbery.</item>
+                  <item>
+                     <hi>Elizabeth Goſgrow.</hi>
+                  </item>
+                  <item>John Bowden.</item>
+                  <item>Thomas Gad.</item>
+                  <item>George Meake.</item>
+                  <item>John Meake.</item>
+                  <item>John Hilland.</item>
+                  <item>Thomas Watſon.</item>
+                  <item>George Wooler.</item>
+                  <item>George Jacobs.</item>
+                  <item>John Hebes.</item>
+                  <item>Richard Hickman.</item>
+                  <item>John Thomas.</item>
+                  <item>James Smith.</item>
+                  <item>
+                     <hi>Elizabeth Atkins</hi>
+                  </item>
+                  <item>
+                     <hi>Mary Snirl.</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Lemond.</hi>
+                  </item>
+                  <pb n="7" facs="tcp:43538:4"/>
+                  <item>Richard Caper.</item>
+                  <item>William Hawkins.</item>
+                  <item>John Leech.</item>
+                  <item>Hum. Keerre.</item>
+                  <item>
+                     <hi>Elizabeth Freeman.</hi>
+                  </item>
+                  <item>The number in all <hi>72.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Since the removal of theſe from <hi>New<g ref="char:EOLhyphen"/>gate,</hi> divers other notorious Offend<g ref="char:EOLhyphen"/>ers, have been apprehended and com<g ref="char:EOLhyphen"/>mitted to the ſaid Goal amongſt the reſt, thoſe audacious <g ref="char:V">Ʋ</g>illains, that durſt preſume or dare to attempt, to rob his Highneſs the Duke of <hi>York:</hi> As alſo thoſe wicked Water-men, that lately played their pranks on the River of Thames.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
